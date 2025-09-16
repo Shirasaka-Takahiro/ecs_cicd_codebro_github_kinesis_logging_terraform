@@ -8,7 +8,7 @@ README.md
 <br />
 Network
 <br />
-ECS Fargate (FireLens)
+ECS Fargate
 <br />
 ACM
 <br />
@@ -27,6 +27,8 @@ CodePipeline
 CloudWatch
 <br />
 S3(Buckets for logging and pipeline)
+<br />
+Kinesis Data Firehose
 <br />
 
 ■Deploy
